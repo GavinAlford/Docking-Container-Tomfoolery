@@ -47,7 +47,7 @@ sudo bash kasm_release/install.sh
 
 12. Go to the ip adress of your lenode 
 
-https://<your ip> 
+https:// your lenodes ip
 
 13. Use the admin credintials to log into kasm
 
